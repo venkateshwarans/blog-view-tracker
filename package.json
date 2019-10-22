@@ -1,0 +1,24 @@
+{
+  "name": "venkat-sh-portfolio-viewtracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "dev": "micro",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^7.2.1",
+    "firebase-admin": "^8.6.1",
+    "micro": "^9.3.4",
+    "ms": "^2.1.2",
+    "now-micro": "^0.4.0",
+    "request-ip": "^2.1.3"
+  }
+}
